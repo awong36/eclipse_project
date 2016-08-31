@@ -1,0 +1,11 @@
+14:18:58 **** Incremental Build of configuration Debug for project HelloWorld ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "HelloWorld.elf"
+   text	   data	    bss	    dec	    hex	filename
+   2164	     76	    272	   2512	    9d0	HelloWorld.elf
+Finished building: HelloWorld.siz
+ 
+
+14:18:58 Build Finished (took 440ms)
+
